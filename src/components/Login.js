@@ -31,7 +31,7 @@ const logout = () => {
 return (
 	<>
 	<div style={{ textAlign: 'center' }}>
-		<h1>SUCCESS! </h1>
+		<h1>Login</h1>
 		{!isLoggedin ? (
 		<>
 			<form action="">
