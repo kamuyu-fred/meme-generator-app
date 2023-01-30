@@ -4,6 +4,7 @@ import './index.css';
 import App from './components/App';
 import Navbar from './components/Navbar/Navbar';
 import Home from './components/Home';
+import Login from './components/Login';
 
 
 
@@ -12,7 +13,7 @@ root.render(
   <React.StrictMode>
     <App />
     <Navbar />
-    <Home />
+    <Login />
   </React.StrictMode>
 );
 
