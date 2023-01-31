@@ -14,26 +14,30 @@ function Navbar() {
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
+          
             <li class="nav-item">
               <a class="nav-link active" aria-current="page" href="#">Home</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="#">Generator</a>
             </li>
-              <li class="nav-item">
-                  <a class="nav-link" href="#">Contact</a>
-              </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">About</a>
-                </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Contact</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">About</a>
+            </li>
+            
         
-        <div class="d-grid gap-2 d-md-flex justify-content-md-end">
-              <a class="btn btn-primary me-md-2" href="#">Log In</a>
-        </div>
         
-      </ul>
+        
+        </ul>
+      
     </div>
+  <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+      <a class="btn btn-primary me-md-2" href="#">Log In</a>
   </div>
+</div>
 </nav>
     </div>
   )}

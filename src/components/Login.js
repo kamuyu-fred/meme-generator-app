@@ -54,7 +54,7 @@ return (
 				placeholder="Password"
 			/>
 			<button type="submit" onClick={login}>
-				GO
+				Login
 			</button>
 			</form>
 		</>
