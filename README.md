@@ -1,5 +1,6 @@
 # Phase-2 Group Project (Group 45)
 
+Deployment link : https://meme-generator-q6np9pgsa-kamuyu-fred.vercel.app/
 
 ## Introduction
 This is a meme generator site designed for quick, fast and easy meme creation. It is designed to be minimal and easy to use while having very low overhead to maximise responsiveness.
