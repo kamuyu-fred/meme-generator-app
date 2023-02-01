@@ -4,10 +4,10 @@
 ## Introduction
 This is a meme generator site designed for quick, fast and easy meme creation. It is designed to be minimal and easy to use while having very low overhead to maximise responsiveness.
 This is the phase 2 group project for the team comprising of the following members:
--John Justice
--Esperance Kariuki
--Elly Kipchumba
--Fred Kamuyu
+- John Justice
+- Esperance Kariuki
+- Elly Kipchumba
+- Fred Kamuyu
 ## Minimum Viable Product
 The following requirements MUST be delivered in order to consider your submission as complete:
 NB: Consume the following API to get data to be used. https://mememaker.github.io/API/
