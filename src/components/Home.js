@@ -6,7 +6,7 @@ function Home() {
     return (
         <div>
             
-            <p>WELCOME TO MEME GENERATOR</p>
+            <h1>WELCOME TO MEME GENERATOR</h1>
 
         </div>
 )
