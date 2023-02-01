@@ -34,6 +34,9 @@ function Navbar() {
         
       </ul>
     </div>
+    <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+      <a class="btn btn-primary me-md-2" href="login">Log In</a>
+  </div>
   </div>
 </nav>
     </div>
