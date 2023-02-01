@@ -6,8 +6,11 @@ function Home() {
     return (
         <div>
             
-            <h1>WELCOME TO MEME GENERATOR</h1>
+            <span><h1>WELCOME TO MEME GENERATOR</h1></span>
 
+              
+                    <h2>A quick and easy way to generate memes</h2>
+               
         </div>
 )
 }
